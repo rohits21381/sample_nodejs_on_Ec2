@@ -48,7 +48,7 @@ This command will print the git version in the terminal.
 Run below command to clone the code repository from Github:
 
 ```bash
-git clone <url>
+git clone https://github.com/CloudTechDevOps/sample_nodejs_on_Ec2.git
 ```
 
 Get inside the directory and Install Packages
