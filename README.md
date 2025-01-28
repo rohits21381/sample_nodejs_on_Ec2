@@ -65,3 +65,13 @@ To start the application, run the below command in the terminal:
 npm start
 ```
 
+or if we want to run application into process manager pm2
+```bash
+npm install -g pm2
+
+```bash
+pm2 start index.js --name node-app
+```
+
+
+
